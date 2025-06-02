@@ -78,3 +78,8 @@
             align-items: left;    
             font-style: italic;  
         }
+
+        .Achievements {
+            line-height: 2;
+            align-items: center;
+        }
