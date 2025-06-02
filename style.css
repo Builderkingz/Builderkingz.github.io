@@ -1,0 +1,80 @@
+
+
+
+.Body1 {
+    background: linear-gradient(to right, #5b3c1b, #fdf385 );
+    text-align: center;
+}
+
+    .heading1 {
+        color: #fdf385;
+        font-weight: bolder;
+        font-style: italic;
+        line-height: 1.8;
+        background-color: #000000;
+        background-position: left;
+    }
+
+        .heading2 {
+            color: #FAD643;
+            background-color: #000000;
+            background-position: left;
+            font-weight: bold;
+            font-style: italic;
+        }
+
+            .Cut {
+                background-color: silver;
+                line-height: 2;
+            }
+
+.Body2 {
+    background: linear-gradient(to left, #5b3c1b, #fdf385 );
+}
+
+    .heading3 {
+        color:#f41b1b;
+        line-height: 15;
+        font-size: 30px;
+        line-height: 3;
+    }
+
+        .Paragraph1 {
+            color:rgb(25, 28, 181);
+            font-size: 20px;
+            display: flex;
+            justify-content: center; 
+            align-items: center;    
+            font-style: italic;  
+            line-height: 2;
+        }
+
+            img {
+                display: block;
+                margin: 0 auto;
+            }
+
+                .Cut {
+                    background-color: silver;
+                    line-height: 2;
+                    color: silver;
+                }
+
+.Body3 {
+    background: linear-gradient(to left, #5b3c1b, #fdf385 );
+}
+
+    .heading32 {
+        color:#02e6ff;
+        line-height: 15;
+        font-size: 30px;
+        line-height: 3;
+    }
+
+        .List {
+            color:rgb(0, 0, 0);
+            font-size: 20px;
+            display: flex; 
+            align-items: left;    
+            font-style: italic;  
+        }
